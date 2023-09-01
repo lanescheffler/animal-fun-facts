@@ -2,6 +2,8 @@ div {
 	display: flex;
 	align-items: center;
 	flex-direction: column;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
 
 .background {
@@ -14,7 +16,8 @@ div {
 #fact {
 	display: flex;
 	justify-content: center;
-  position: fixed;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  	position: fixed;
 	margin-top: 100px;
 	width: 80%;
 	font-size: 5vw;
